@@ -66,31 +66,23 @@
 
 ## 🚀 Featured Projects
 
-### 💈 Barbería Elite
-* **Description:** Web/mobile application for appointment scheduling and barbershop management.
+### ⚡ Inno-Track
+* **Description:** Development tracking and management system.
 <p>
-  <a href="URL_DEL_PROYECTO_O_DEMO" target="_blank">
-    <img src="https://img.shields.io/badge/Barbería%20Elite-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Project">
+  <a href="URL_DE_TU_DEMO_O_WEB" target="_blank">
+    <img src="https://img.shields.io/badge/INNO--TRACK-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Project">
   </a>
   <a href="URL_DEL_REPOSITORIO" target="_blank">
     <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
   </a>
 </p>
 
-### 🏨 Hotel El Edén
-* **Description:** Hotel reservation and management system.
+### 🧪 JQG Labs
+* **Description:** Personal portfolio and web laboratory platform.
 <p>
-  <a href="URL_DEL_PROYECTO_O_DEMO" target="_blank">
-    <img src="https://img.shields.io/badge/Hotel%20El%20Edén-0D9488?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Project">
+  <a href="URL_DE_TU_PAGINA" target="_blank">
+    <img src="https://img.shields.io/badge/JQG%20LABS-059669?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Project">
   </a>
-  <a href="URL_DEL_REPOSITORIO" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
-  </a>
-</p>
-
-### 📝 Notes App
-* **Description:** Interactive notes application built with modern technologies.
-<p>
   <a href="URL_DEL_REPOSITORIO" target="_blank">
     <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
   </a>
@@ -100,5 +92,5 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iardila10&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
