@@ -80,7 +80,7 @@
 ### 🧪 JQG Labs
 * **Description:** Personal portfolio and web laboratory platform.
 <p>
-  <a href="(https://jqglabs.com/)" target="_blank">
+  <a href="https://jqglabs.com/" target="_blank">
     <img src="https://img.shields.io/badge/JQG%20LABS-059669?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Project">
   </a>
   <a href="https://github.com/Juanquintero18/INNO-TRACK" target="_blank">
