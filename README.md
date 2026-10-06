@@ -13,7 +13,7 @@
   <a href="https://github.com/Juanquintero18" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-Juanquintero18-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="mailto:tu-correo@example.com" target="_blank">
+  <a href="mailto:quinterojuanjose30@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
