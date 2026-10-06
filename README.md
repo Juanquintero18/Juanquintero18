@@ -72,7 +72,7 @@
   <a href="URL_DE_TU_DEMO_O_WEB" target="_blank">
     <img src="https://img.shields.io/badge/INNO--TRACK-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Project">
   </a>
-  <a href="URL_DEL_REPOSITORIO" target="_blank">
+  <a href="https://github.com/Juanquintero18/INNO-TRACK" target="_blank">
     <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
   </a>
 </p>
@@ -83,7 +83,7 @@
   <a href="https://jqglabs.com/" target="_blank">
     <img src="https://img.shields.io/badge/JQG%20LABS-059669?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Project">
   </a>
-  <a href="https://github.com/Juanquintero18/INNO-TRACK" target="_blank">
+  <a href="https://github.com/Juanquintero18/JQG-LABS-WEB" target="_blank">
     <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
   </a>
 </p>
