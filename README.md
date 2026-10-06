@@ -89,6 +89,10 @@
 </p>
 
 ---
+## 🌍 Languages 
+* **Spanish:** Native.
+* **English:** Advanced(B2).
+---
 
 ## 📊 GitHub Stats
 <p align="center">
