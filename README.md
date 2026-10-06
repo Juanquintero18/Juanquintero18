@@ -64,10 +64,33 @@
 
 ---
 
+## 🤖 AI-Driven Development & Workflows
+
+<p>
+  Expert integration of AI-assisted engineering tools to maximize productivity, maintain architectural consistency, and automate complex codebases.
+</p>
+
+<p>
+  <!-- Claude Code -->
+  <img src="https://img.shields.io/badge/Claude%20Code-CC6699?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
+  <!-- Cursor -->
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
+  <!-- AI Agents -->
+  <img src="https://img.shields.io/badge/AI%20Agents-6366F1?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents">
+  <!-- Context Engineering -->
+  <img src="https://img.shields.io/badge/Context%20Engineering-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white" alt="Context & Skills">
+</p>
+
+- **Command-Line & IDE Integration:** Advanced utilization of **Claude Code** and **Cursor** for rapid prototyping, deep refactoring, and terminal-native software delivery.
+- **Agentic Workflows:** Orchestration of specialized AI agents to automate multi-step development pipelines, issue tracking, and testing.
+- **Context & Custom Skills Engineering:** Deep mastery in managing code context windows, defining custom developer guidelines, and building modular agent skills for precision outputs.
+
+---
+
 ## 🚀 Featured Projects
 
 ### ⚡ Inno-Track
-* **Description:** Development tracking and management system.
+- **Description:** Development tracking and management system.
 <p>
   <a href="URL_DE_TU_DEMO_O_WEB" target="_blank">
     <img src="https://img.shields.io/badge/INNO--TRACK-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Project">
@@ -78,7 +101,7 @@
 </p>
 
 ### 🧪 JQG Labs
-* **Description:** Personal portfolio and web laboratory platform.
+- **Description:** Personal portfolio and web laboratory platform.
 <p>
   <a href="https://jqglabs.com/" target="_blank">
     <img src="https://img.shields.io/badge/JQG%20LABS-059669?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Project">
@@ -87,8 +110,6 @@
     <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
   </a>
 </p>
-
----
 ## 🌍 Languages 
 * **Spanish:** Native.
 * **English:** Advanced(B2).
